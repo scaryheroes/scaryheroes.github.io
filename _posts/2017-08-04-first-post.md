@@ -20,3 +20,5 @@ and quest system. Also, I don't really like the current algorithm for the trades
 do something about that too. Maybe when I have a basic gameplay, I'll build some versions of the game for sharing.
 <br> <br>That's all for a first post. Quite ambitious I think, and will haunt me every time I read it and I am not working. Well,
  it's too easy to delete it.
+
+ 4-8-2017 06:30
