@@ -3,7 +3,7 @@ layout: post
 ---
 
 This is a start.<br><br>
-Maybe this blog will trick my mind and help me organize myself and keep me away of distractions from... things.
+Maybe this blog will trick my mind and help me organize myself and keep me away of distractions from things.
 <br><br>So, this game is about heroes, shitty heroes mostly. I want them to feel real, I want them to die, and I want the 
 player to like the gameplay. There is a problem here though: It's my first game, it's my first world building, 
 it's my first storytelling thing. So, how do you make a videogame setting real, let's say by avoiding mary sue cliches,
