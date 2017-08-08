@@ -5,6 +5,7 @@ permalink: /TODO/
 ---
 
 Add quests system
+<br>Add dungeons and navigation to them
 <br>Add notification system
 <br>Add fast forward system (added 5/8) 
 <br>Add battle system
